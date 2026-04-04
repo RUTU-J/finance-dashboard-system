@@ -36,7 +36,7 @@ The Finance Dashboard System is a backend application built using Spring Boot. I
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/RUTU-J/Finance-Dashboard-System-.git
+git clone https://github.com/RUTU-J/finance-dashboard-system.git
 ```
 
 ### 2. Create Database
